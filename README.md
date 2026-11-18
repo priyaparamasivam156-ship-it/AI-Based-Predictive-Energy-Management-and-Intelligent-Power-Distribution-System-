@@ -1,0 +1,2 @@
+# AI-Based-Predictive-Energy-Management-and-Intelligent-Power-Distribution-System-
+The AI-assisted energy management system distributes power from solar, grid, and battery sources. It predicts future energy demand, prioritizes critical loads, manages battery backup, and reduces non-critical loads when energy is limited. An independent current-based protection system detects faults and isolates affected branches.
